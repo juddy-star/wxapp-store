@@ -26,3 +26,21 @@ src/demo/index
 ```js
 npm run demo
 ```
+
+### 目录
+
+```js
+lib
+└── core
+    ├── action
+    │   └── index.js
+    ├── getter
+    │   └── index.js
+    ├── index.js
+    ├── mutation
+    │   └── index.js
+    ├── state
+    │   └── index.js
+    └── utils
+        └── index.js
+```
