@@ -1,0 +1,29 @@
+{
+  "name": "wxapp-store",
+  "version": "1.0.0",
+  "description": "微信小程序的单一状态树",
+  "main": "./dist/index.js",
+  "private": true,
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/juddy-star/wxapp-store.git"
+  },
+  "scripts": {
+    "start": "rollup -c",
+    "demo": "node src/demo/index.js"
+  },
+  "keywords": [
+    "wxapp",
+    "store",
+    "vuex"
+  ],
+  "author": "juddy-star",
+  "email": "654312777@qq.com",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/juddy-star/wxapp-store/issues"
+  },
+  "homepage": "https://github.com/juddy-star/wxapp-store#readme",
+  "devDependencies": {},
+  "dependencies": {}
+}
