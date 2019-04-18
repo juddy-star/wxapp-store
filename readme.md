@@ -15,7 +15,7 @@
 npm start 构建lib
 ```
 
-## demo
+## demo
 
 ### path
 
